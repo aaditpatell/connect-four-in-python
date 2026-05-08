@@ -19,3 +19,8 @@ python connect_four.py
 ## Gameplay
 
 Players take turns dropping pieces into columns. First to connect four in a row (horizontally, vertically, or diagonally) wins.
+
+
+
+
+(Just a simple python project to help brush up some skills & increase proficiency.)
